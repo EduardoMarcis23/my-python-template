@@ -1,4 +1,2 @@
     Este es el repo que se descargo vuelto 
 a subir pero con este archivo extra
-
-Edicion de archivos para git pull

@@ -1,3 +1,4 @@
 Este es un archivo que nos ayudara a ejemplificar un git pull
  
 conflicto de git pull
+Modificacion para ejemplificar git fetch
